@@ -101,7 +101,6 @@ See the LICENSE file for more details.
 If you find this project helpful:
 ⭐ Star this repo
 🐛 Report issues or suggest features via GitHub Issues
-📩 Connect with me on LinkedIn (Add your profile link)
 
 
 
